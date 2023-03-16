@@ -5,3 +5,9 @@
 
 ![Στιγμιότυπο οθόνης 2023-03-03 151050](https://user-images.githubusercontent.com/118479811/223519247-c470fd9f-e185-49fb-858a-bfa385dbf3ee.png)
 ![Στιγμιότυπο οθόνης 2023-03-03 151002](https://user-images.githubusercontent.com/118479811/223519260-71d0bb03-a33f-4fb4-a418-4885ee214d24.png)
+
+
+[movie_001.zip](https://github.com/dpsd14073/Digital-Storytelling-Individual-Assignment/files/10990478/movie_001.zip)
+
+
+![unit2](https://user-images.githubusercontent.com/118479811/225613898-568d78ab-6969-4e8b-9a98-53f7161feb11.png)
