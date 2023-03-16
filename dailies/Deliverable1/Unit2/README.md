@@ -6,7 +6,7 @@
 ![Στιγμιότυπο οθόνης 2023-03-03 151050](https://user-images.githubusercontent.com/118479811/223519247-c470fd9f-e185-49fb-858a-bfa385dbf3ee.png)
 ![Στιγμιότυπο οθόνης 2023-03-03 151002](https://user-images.githubusercontent.com/118479811/223519260-71d0bb03-a33f-4fb4-a418-4885ee214d24.png)
 
-
+Στη συνέχεια επέξεργάστηκα περαιτέρω τη πολη για να της δώσω χαρακτηήρα. Εφτιαξα το ZeppelinBuilding και σπίτια και ουρανοξύστες και τους έδωσα υφή.
 [movie_001.zip](https://github.com/dpsd14073/Digital-Storytelling-Individual-Assignment/files/10990478/movie_001.zip)
 
 
