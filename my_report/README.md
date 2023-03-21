@@ -2,7 +2,7 @@
 
 ### First and Last Name: Τριαντάφυλλη Ντονά
 ### University Registration Number: dpsd14073
-### GitHub Personal Profile: [xxx](https://github.com/dpsd14073)
+### GitHub Personal Profile: (https://github.com/dpsd14073)
 ### Digital-Storytelling-Individual-Assignment: 
 
 # Introduction
