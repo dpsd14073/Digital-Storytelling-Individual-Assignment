@@ -44,14 +44,17 @@ Unit 4
 # 2nd Deliverable
 
 Στο Unit 5 κατέβασα τα αρχικά αρχεία, και στη συνέχεια έμαθα πως να χειρίζομαι τη main camera και πως να κάνω framing ενώ έκανα και τις απαραίτητες ρυθμίσεις. Εγκατέστησα το Cinemachine, και εμαθα πώς να ενσώματώνω cinemachine brain και να φτιάχνω cinemachine tracks. Επισης έμαθα πώς να δημιουργώ virtual cameras έκανα τις απαραιτητλες ρυθμίσεις και εξασκήθηκα στο framing of the shot και να το κάνω animate. Με αυτές τις γνώσεις ολοκλήρωσα τα cinematics και εκάνα blend τα shots.
+![Στιγμιότυπο οθόνης 2023-05-07 225552](https://user-images.githubusercontent.com/118479811/236699916-382b0354-3868-497f-b9ed-6b4dd6f81dc8.png)
 
 [movie5.zip](https://github.com/dpsd14073/Digital-Storytelling-Individual-Assignment/files/11368947/movie5.zip)
 
 Στο Unit 6 έμαθα να βάζω lighting οπως point pights και spotlights και να κάνω τις απαραίτητες ρυθμίσεις για το καλύτερο οπτικό αποτέλεσμα. Υστερα έμαθα να φτιάχνω street ligths και prefabs αυτών. Δουλεψα με τον Light Explorer και χειρισρ=τηκά τα φώτα μέσω activation tracks. Επίσης έφτιαξα ομίχλη και έκανα τις απαραιτητές ρυθμίσεις.Μετά ρύθμισα το παιχνίδι για να κάνω postprocessing και δημιουργησα post-processing effects όπως το bloom, tone-mapping, colour grading, lift gamma gain, white balance και Motion blurr κάνωντας καθε φορα τις απαραίτητες ρυθμίσεις.Εμαθα νσ δουλεύω με το vignette  και το depth of Field.
+![Στιγμιότυπο οθόνης 2023-05-07 225806](https://user-images.githubusercontent.com/118479811/236700000-38a67cad-365b-4923-9df5-bdc168ab5747.png)
 
 [Rendered_Movie_take-001.zip](https://github.com/dpsd14073/Digital-Storytelling-Individual-Assignment/files/11368978/Rendered_Movie_take-001.zip)
 
 Στο Unit 7 εμάθα να φτίαχνω  particle effect και να το ρυθμίζω, εγκατέστησα το Visual Effect Graph Package και το έκανα set up, επειτα κάνωντας χρήση αυτου εφτιαξά το Spark effect με το VFX. Στη συνέχεια δούλεψα με τον ήχο προσθέτωντας background music και έμαθα να χρησιμοποιω το Audio Mixer για να προσθέτω Audio Effects αλλά και μέσω του Inspector και να τοποθετώ Audio στο Timeline. Επειτα εγκατέστησα το TextMeshPro και τα απαραιτητα αρχεία του ωστε να επεξεργάζομαι και να βάζω κείμενο και να το κάνω fade in and out τόσο το κείμενο όσο και στο animation.
+![Στιγμιότυπο οθόνης 2023-05-07 225210](https://user-images.githubusercontent.com/118479811/236699779-f082c3d4-271d-475d-b6b7-4460c5a99262.png)
 
 https://youtu.be/GXn9nJ-iMEI
 
